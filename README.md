@@ -10,6 +10,8 @@ Jireh 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://www.lyile.cn/my-github-repos)
+* [harbor中registry容器无法启动](https://www.lyile.cn/articles/2020/08/08/1596850536051.html)
 * [2020-08-04 街拍](https://www.lyile.cn/articles/2020/08/05/1596620318994.html)
 * [腾讯软件中心独立版](https://www.lyile.cn/articles/2020/08/04/1596544198054.html)
 * [[转]Python反反爬虫 – Frida破解某盒子hkey反爬虫算法](https://www.lyile.cn/articles/2020/07/30/1596118953825.html)
@@ -28,8 +30,6 @@ Jireh 的个人博客
 * [Linux BT 宝塔面板开心版 [一键脚本]](https://www.lyile.cn/articles/2020/04/14/1586846449806.html)
 * [Git提交规范](https://www.lyile.cn/articles/2020/04/13/1586763563287.html)
 * [Spring循环引用报错 in its raw version as part of a circular reference, but has eventually been wrapped. ](https://www.lyile.cn/articles/2020/04/10/1586502391529.html)
-* [Xshell文件传输](https://www.lyile.cn/articles/2020/04/07/1586244603053.html)
-* [中国居民膳食指南](https://www.lyile.cn/articles/2020/04/05/1586052347137.html)
 
 
 
