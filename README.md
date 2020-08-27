@@ -10,6 +10,7 @@ Jireh 的个人博客
 
 ### 最新
 
+* [harbor配置oss后无法正常启动](https://www.lyile.cn/articles/2020/08/27/1598499221475.html)
 * [【CDisplay】欧美电子版漫画阅读器](https://www.lyile.cn/articles/2020/08/24/1598238224421.html)
 * [【好物分享】推荐一款个人觉得不错的芥末](https://www.lyile.cn/articles/2020/08/13/1597308272278.html)
 * [我在 GitHub 上的开源项目](https://www.lyile.cn/my-github-repos)
@@ -29,7 +30,6 @@ Jireh 的个人博客
 * [Linux相关命令整合](https://www.lyile.cn/articles/2020/05/06/1588754636951.html)
 * [Feign：Method has too many Body parameters](https://www.lyile.cn/articles/2020/04/17/1587093649689.html)
 * [feign.FeignException: status 400 reading ](https://www.lyile.cn/articles/2020/04/15/1586921042576.html)
-* [Linux BT 宝塔面板开心版 [一键脚本]](https://www.lyile.cn/articles/2020/04/14/1586846449806.html)
 
 
 
