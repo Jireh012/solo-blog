@@ -10,6 +10,7 @@ Jireh 的个人博客
 
 ### 最新
 
+* [Gitea删除用户两步验证](https://www.lyile.cn/articles/2020/09/18/1600413368833.html)
 * [Vue3.0正式发布在即，element凉了？](https://www.lyile.cn/articles/2020/09/16/1600226604837.html)
 * [harbor配置oss后无法正常启动](https://www.lyile.cn/articles/2020/08/27/1598499221475.html)
 * [【CDisplay】欧美电子版漫画阅读器](https://www.lyile.cn/articles/2020/08/24/1598238224421.html)
@@ -29,7 +30,6 @@ Jireh 的个人博客
 * [Mysql两个时间之间相减计算](https://www.lyile.cn/articles/2020/06/05/1591337531855.html)
 * [Java 16进制校验码计算](https://www.lyile.cn/articles/2020/05/28/1590632115579.html)
 * [Linux相关命令整合](https://www.lyile.cn/articles/2020/05/06/1588754636951.html)
-* [Feign：Method has too many Body parameters](https://www.lyile.cn/articles/2020/04/17/1587093649689.html)
 
 
 
