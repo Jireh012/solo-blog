@@ -10,6 +10,7 @@ Jireh 的个人博客
 
 ### 最新
 
+* [ElasticSearch-[Centos]单机部署安装记录](https://www.lyile.cn/articles/2020/09/28/1601277968113.html)
 * [v2ray转发mtp配置](https://www.lyile.cn/articles/2020/09/27/1601168576136.html)
 * [ARM指令对应HEX机器码](https://www.lyile.cn/articles/2020/09/26/1601100000721.html)
 * [GitHub 从下个月开始用 main 替代 master](https://www.lyile.cn/articles/2020/09/21/1600653684952.html)
@@ -29,7 +30,6 @@ Jireh 的个人博客
 * [Everything一款轻量的文件索引工具](https://www.lyile.cn/articles/2020/07/06/1594024917042.html)
 * [Gitea迁移后，Push时报错remote: hooks/pre-receive问题](https://www.lyile.cn/articles/2020/06/29/1593421949680.html)
 * [SpringBoot文件上传NoSuchFileException: /tmp/undertow错误](https://www.lyile.cn/articles/2020/06/13/1592016051139.html)
-* [SymantecEndpointProtection(诺顿)卸载工具](https://www.lyile.cn/articles/2020/06/11/1591840735258.html)
 
 
 
