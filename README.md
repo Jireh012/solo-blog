@@ -10,6 +10,7 @@ Jireh 的个人博客
 
 ### 最新
 
+* [Centos使用Docker部署Searx](https://www.lyile.cn/articles/2020/10/10/1602321509654.html)
 * [ElasticSearch-[Centos]单机部署安装记录](https://www.lyile.cn/articles/2020/09/28/1601277968113.html)
 * [v2ray转发mtp配置](https://www.lyile.cn/articles/2020/09/27/1601168576136.html)
 * [ARM指令对应HEX机器码](https://www.lyile.cn/articles/2020/09/26/1601100000721.html)
@@ -29,7 +30,6 @@ Jireh 的个人博客
 * [哈啰单车使用小经验1](https://www.lyile.cn/articles/2020/07/27/1595850910345.html)
 * [Everything一款轻量的文件索引工具](https://www.lyile.cn/articles/2020/07/06/1594024917042.html)
 * [Gitea迁移后，Push时报错remote: hooks/pre-receive问题](https://www.lyile.cn/articles/2020/06/29/1593421949680.html)
-* [SpringBoot文件上传NoSuchFileException: /tmp/undertow错误](https://www.lyile.cn/articles/2020/06/13/1592016051139.html)
 
 
 
