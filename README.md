@@ -3,13 +3,14 @@ Jireh 的个人博客
 </h2>
 
 <h4 align="center">记录分享生活、程序、信息的精彩人生</h4>
-<p align="center"><a title="Jireh 的个人博客" target="_blank" href="https://github.com/lastle/solo-blog"><img src="https://img.shields.io/github/last-commit/lastle/solo-blog.svg?style=flat-square&color=FF9900"></a>
-<a title="GitHub repo size in bytes" target="_blank" href="https://github.com/lastle/solo-blog"><img src="https://img.shields.io/github/repo-size/lastle/solo-blog.svg?style=flat-square"></a>
+<p align="center"><a title="Jireh 的个人博客" target="_blank" href="https://github.com/Jireh012/solo-blog"><img src="https://img.shields.io/github/last-commit/Jireh012/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<a title="GitHub repo size in bytes" target="_blank" href="https://github.com/Jireh012/solo-blog"><img src="https://img.shields.io/github/repo-size/Jireh012/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
-<a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/lastle/solo-blog.svg"></a></p>
+<a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/Jireh012/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [Vue实现的年历（适用于考勤，备忘）](https://www.lyile.cn/articles/2020/10/15/1602752680194.html)
 * [Centos使用Docker部署Searx](https://www.lyile.cn/articles/2020/10/10/1602321509654.html)
 * [ElasticSearch-[Centos]单机部署安装记录](https://www.lyile.cn/articles/2020/09/28/1601277968113.html)
 * [v2ray转发mtp配置](https://www.lyile.cn/articles/2020/09/27/1601168576136.html)
@@ -29,7 +30,6 @@ Jireh 的个人博客
 * [BladeX框架deploy脚本执行报错问题](https://www.lyile.cn/articles/2020/07/28/1595919718622.html)
 * [哈啰单车使用小经验1](https://www.lyile.cn/articles/2020/07/27/1595850910345.html)
 * [Everything一款轻量的文件索引工具](https://www.lyile.cn/articles/2020/07/06/1594024917042.html)
-* [Gitea迁移后，Push时报错remote: hooks/pre-receive问题](https://www.lyile.cn/articles/2020/06/29/1593421949680.html)
 
 
 
