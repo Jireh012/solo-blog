@@ -10,6 +10,7 @@ Jireh 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://www.lyile.cn/my-github-repos)
 * [Vue实现的年历（适用于考勤，备忘）](https://www.lyile.cn/articles/2020/10/15/1602752680194.html)
 * [Centos使用Docker部署Searx](https://www.lyile.cn/articles/2020/10/10/1602321509654.html)
 * [ElasticSearch-[Centos]单机部署安装记录](https://www.lyile.cn/articles/2020/09/28/1601277968113.html)
@@ -22,7 +23,6 @@ Jireh 的个人博客
 * [harbor配置oss后无法正常启动](https://www.lyile.cn/articles/2020/08/27/1598499221475.html)
 * [【CDisplay】欧美电子版漫画阅读器](https://www.lyile.cn/articles/2020/08/24/1598238224421.html)
 * [【好物分享】推荐一款个人觉得不错的芥末](https://www.lyile.cn/articles/2020/08/13/1597308272278.html)
-* [我在 GitHub 上的开源项目](https://www.lyile.cn/my-github-repos)
 * [harbor中registry容器无法启动](https://www.lyile.cn/articles/2020/08/08/1596850536051.html)
 * [2020-08-04 街拍](https://www.lyile.cn/articles/2020/08/05/1596620318994.html)
 * [腾讯软件中心独立版](https://www.lyile.cn/articles/2020/08/04/1596544198054.html)
