@@ -10,6 +10,7 @@ Jireh 的个人博客
 
 ### 最新
 
+* [20201027 | 又是摸鱼的一天 | 日记](https://www.lyile.cn/articles/2020/10/27/1603808366586.html)
 * [我在 GitHub 上的开源项目](https://www.lyile.cn/my-github-repos)
 * [Vue实现的年历（适用于考勤，备忘）](https://www.lyile.cn/articles/2020/10/15/1602752680194.html)
 * [Centos使用Docker部署Searx](https://www.lyile.cn/articles/2020/10/10/1602321509654.html)
@@ -29,7 +30,6 @@ Jireh 的个人博客
 * [[转]Python反反爬虫 – Frida破解某盒子hkey反爬虫算法](https://www.lyile.cn/articles/2020/07/30/1596118953825.html)
 * [BladeX框架deploy脚本执行报错问题](https://www.lyile.cn/articles/2020/07/28/1595919718622.html)
 * [哈啰单车使用小经验1](https://www.lyile.cn/articles/2020/07/27/1595850910345.html)
-* [Everything一款轻量的文件索引工具](https://www.lyile.cn/articles/2020/07/06/1594024917042.html)
 
 
 
