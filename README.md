@@ -10,6 +10,9 @@ Jireh 的个人博客
 
 ### 最新
 
+* [读书成诗解密题分析 一](https://www.lyile.cn/articles/2020/10/28/1603877832562.html)
+* [Windows Server 2019 官方 MSDN 镜像（含Key）](https://www.lyile.cn/articles/2020/10/28/1603872992354.html)
+* [Hyper-V安装镜像时press any key to boot](https://www.lyile.cn/articles/2020/10/28/1603871623547.html)
 * [20201027 | 又是摸鱼的一天 | 日记](https://www.lyile.cn/articles/2020/10/27/1603808366586.html)
 * [我在 GitHub 上的开源项目](https://www.lyile.cn/my-github-repos)
 * [Vue实现的年历（适用于考勤，备忘）](https://www.lyile.cn/articles/2020/10/15/1602752680194.html)
@@ -27,9 +30,6 @@ Jireh 的个人博客
 * [harbor中registry容器无法启动](https://www.lyile.cn/articles/2020/08/08/1596850536051.html)
 * [2020-08-04 街拍](https://www.lyile.cn/articles/2020/08/05/1596620318994.html)
 * [腾讯软件中心独立版](https://www.lyile.cn/articles/2020/08/04/1596544198054.html)
-* [[转]Python反反爬虫 – Frida破解某盒子hkey反爬虫算法](https://www.lyile.cn/articles/2020/07/30/1596118953825.html)
-* [BladeX框架deploy脚本执行报错问题](https://www.lyile.cn/articles/2020/07/28/1595919718622.html)
-* [哈啰单车使用小经验1](https://www.lyile.cn/articles/2020/07/27/1595850910345.html)
 
 
 
