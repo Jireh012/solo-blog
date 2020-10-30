@@ -11,7 +11,7 @@ Jireh 的个人博客
 ### 最新
 
 * [jetbrains-agent使用说明](https://www.lyile.cn/articles/2020/10/29/1603963946649.html)
-* [读书成诗解密题分析 一](https://www.lyile.cn/articles/2020/10/28/1603877832562.html)
+* [读书成诗解密题分析 一](https://www.lyile.cn/articles/2020/10/28/1603877832563.html)
 * [Windows Server 2019 官方 MSDN 镜像（含Key）](https://www.lyile.cn/articles/2020/10/28/1603872992354.html)
 * [Hyper-V安装镜像时press any key to boot](https://www.lyile.cn/articles/2020/10/28/1603871623547.html)
 * [20201027 | 又是摸鱼的一天 | 日记](https://www.lyile.cn/articles/2020/10/27/1603808366586.html)
