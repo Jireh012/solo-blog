@@ -10,6 +10,7 @@ Jireh 的个人博客
 
 ### 最新
 
+* [《Watch Dogs Legion》(看门狗 : 军团) 源代码泄露](https://www.lyile.cn/articles/2020/11/05/1604567653048.html)
 * [突发，宝塔出事被警察带走了？](https://www.lyile.cn/articles/2020/11/03/1604384402861.html)
 * [Docker部署Superset](https://www.lyile.cn/articles/2020/11/03/1604372129177.html)
 * [Centos下Docker配置Http代理](https://www.lyile.cn/articles/2020/11/02/1604307765651.html)
@@ -29,7 +30,6 @@ Jireh 的个人博客
 * [Gitea删除用户两步验证](https://www.lyile.cn/articles/2020/09/18/1600413368833.html)
 * [Vue3.0正式发布在即，element凉了？](https://www.lyile.cn/articles/2020/09/16/1600226604837.html)
 * [harbor配置oss后无法正常启动](https://www.lyile.cn/articles/2020/08/27/1598499221475.html)
-* [【CDisplay】欧美电子版漫画阅读器](https://www.lyile.cn/articles/2020/08/24/1598238224421.html)
 
 
 
