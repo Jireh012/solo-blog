@@ -10,7 +10,9 @@ Jireh 的个人博客
 
 ### 最新
 
+* [请我喝杯咖啡吧](https://www.lyile.cn/articles/2020/11/11/1605085836221.html)
 * [【油盐小考】EX版格斗专场答案](https://www.lyile.cn/articles/2020/11/09/1604892512779.html)
+* [Solo 集成 Valine 评论系统](https://www.lyile.cn/articles/2020/11/06/1604656094535.html)
 * [《Watch Dogs Legion》(看门狗 : 军团) 源代码泄露](https://www.lyile.cn/articles/2020/11/05/1604567653048.html)
 * [突发，宝塔出事被警察带走了？](https://www.lyile.cn/articles/2020/11/03/1604384402861.html)
 * [Docker部署Superset](https://www.lyile.cn/articles/2020/11/03/1604372129177.html)
@@ -28,8 +30,6 @@ Jireh 的个人博客
 * [ARM指令对应HEX机器码](https://www.lyile.cn/articles/2020/09/26/1601100000721.html)
 * [GitHub 从下个月开始用 main 替代 master](https://www.lyile.cn/articles/2020/09/21/1600653684952.html)
 * [语言代码缩写表大全](https://www.lyile.cn/articles/2020/09/21/1600650159784.html)
-* [Gitea删除用户两步验证](https://www.lyile.cn/articles/2020/09/18/1600413368833.html)
-* [Vue3.0正式发布在即，element凉了？](https://www.lyile.cn/articles/2020/09/16/1600226604837.html)
 
 
 
