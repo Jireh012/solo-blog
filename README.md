@@ -10,7 +10,7 @@ Jireh 的个人博客
 
 ### 最新
 
-* [请我喝杯咖啡吧](https://www.lyile.cn/articles/2020/11/11/1605085836221.html)
+* [请我喝杯咖啡吧](https://www.lyile.cn/treat-me-to-coffee)
 * [【油盐小考】EX版格斗专场答案](https://www.lyile.cn/articles/2020/11/09/1604892512779.html)
 * [Solo 集成 Valine 评论系统](https://www.lyile.cn/articles/2020/11/06/1604656094535.html)
 * [《Watch Dogs Legion》(看门狗 : 军团) 源代码泄露](https://www.lyile.cn/articles/2020/11/05/1604567653048.html)
