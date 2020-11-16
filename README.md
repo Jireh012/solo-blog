@@ -10,6 +10,7 @@ Jireh 的个人博客
 
 ### 最新
 
+* [VisualStudio发布应用时未能创建默认证书](https://www.lyile.cn/articles/2020/11/16/1605492931586.html)
 * [VttConvertSrt | 字幕格式转化器](https://www.lyile.cn/articles/2020/11/13/1605259944087.html)
 * [美剧 The Chosen《拣选》第一季 IMDB9.7分](https://www.lyile.cn/articles/2020/11/13/1605233276889.html)
 * [请我喝杯咖啡吧](https://www.lyile.cn/treat-me-to-coffee)
@@ -29,7 +30,6 @@ Jireh 的个人博客
 * [Centos使用Docker部署Searx](https://www.lyile.cn/articles/2020/10/10/1602321509654.html)
 * [ElasticSearch-[Centos]单机部署安装记录](https://www.lyile.cn/articles/2020/09/28/1601277968113.html)
 * [v2ray转发mtp配置](https://www.lyile.cn/articles/2020/09/27/1601168576136.html)
-* [ARM指令对应HEX机器码](https://www.lyile.cn/articles/2020/09/26/1601100000721.html)
 
 
 
