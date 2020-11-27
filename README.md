@@ -10,6 +10,7 @@ Jireh 的个人博客
 
 ### 最新
 
+* [ 阿里巴巴Java开发手册（详尽版）1528284352](https://www.lyile.cn/articles/2020/11/27/1606458186698.html)
 * [Java正则表达式正确食用方式](https://www.lyile.cn/articles/2020/11/26/1606379798134.html)
 * [宝塔部署最新版Solo博客](https://www.lyile.cn/articles/2020/11/20/1605840328957.html)
 * [失魂落魄的教育](https://www.lyile.cn/articles/2020/11/17/1605625512904.html)
@@ -29,7 +30,6 @@ Jireh 的个人博客
 * [Hyper-V安装镜像时press any key to boot](https://www.lyile.cn/articles/2020/10/28/1603871623547.html)
 * [20201027 | 又是摸鱼的一天 | 日记](https://www.lyile.cn/articles/2020/10/27/1603808366586.html)
 * [我在 GitHub 上的开源项目](https://www.lyile.cn/my-github-repos)
-* [Vue实现的年历（适用于考勤，备忘）](https://www.lyile.cn/articles/2020/10/15/1602752680194.html)
 
 
 
