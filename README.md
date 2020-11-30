@@ -10,6 +10,8 @@ Jireh 的个人博客
 
 ### 最新
 
+* [《一生的学习》克里希那穆提](https://www.lyile.cn/articles/2020/11/30/1606724585825.html)
+* [我们的世界观不应该被对立的意识形态所影响](https://www.lyile.cn/articles/2020/11/27/1606469978277.html)
 * [ 阿里巴巴Java开发手册（详尽版）1528284352](https://www.lyile.cn/articles/2020/11/27/1606458186698.html)
 * [Java正则表达式正确食用方式](https://www.lyile.cn/articles/2020/11/26/1606379798134.html)
 * [宝塔部署最新版Solo博客](https://www.lyile.cn/articles/2020/11/20/1605840328957.html)
@@ -28,8 +30,6 @@ Jireh 的个人博客
 * [读书成诗解密题分析 一](https://www.lyile.cn/articles/2020/10/28/1603877832562.html)
 * [Windows Server 2019 官方 MSDN 镜像（含Key）](https://www.lyile.cn/articles/2020/10/28/1603872992354.html)
 * [Hyper-V安装镜像时press any key to boot](https://www.lyile.cn/articles/2020/10/28/1603871623547.html)
-* [20201027 | 又是摸鱼的一天 | 日记](https://www.lyile.cn/articles/2020/10/27/1603808366586.html)
-* [我在 GitHub 上的开源项目](https://www.lyile.cn/my-github-repos)
 
 
 
