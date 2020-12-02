@@ -10,6 +10,7 @@ Jireh 的个人博客
 
 ### 最新
 
+* [#1071 - Specified key was too long; max key length is 767 bytes](https://www.lyile.cn/articles/2020/12/02/1606893127977.html)
 * [Windows通过nssm将frp（任意程序）配置成服务](https://www.lyile.cn/articles/2020/12/01/1606811304022.html)
 * [《一生的学习》克里希那穆提](https://www.lyile.cn/articles/2020/11/30/1606724585825.html)
 * [我们的世界观不应该被对立的意识形态所影响](https://www.lyile.cn/articles/2020/11/27/1606469978277.html)
@@ -29,7 +30,6 @@ Jireh 的个人博客
 * [Centos下Docker配置Http代理](https://www.lyile.cn/articles/2020/11/02/1604307765651.html)
 * [jetbrains-agent使用说明](https://www.lyile.cn/articles/2020/10/29/1603963946649.html)
 * [读书成诗解密题分析 一](https://www.lyile.cn/articles/2020/10/28/1603877832562.html)
-* [Windows Server 2019 官方 MSDN 镜像（含Key）](https://www.lyile.cn/articles/2020/10/28/1603872992354.html)
 
 
 
