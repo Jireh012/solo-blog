@@ -10,14 +10,14 @@ Jireh 的个人博客
 
 ### 最新
 
+* [记录CVE-2020-1971: OpenSSL 拒绝服务漏洞解决过程](https://www.lyile.cn/articles/2020/12/10/1607587862347.html)
+* [OneHospital一个医院抢预约挂号工具](https://www.lyile.cn/articles/2020/12/10/1607569851989.html)
 * [#1071 - Specified key was too long; max key length is 767 bytes](https://www.lyile.cn/articles/2020/12/02/1606893127977.html)
 * [Windows通过nssm将frp（任意程序）配置成服务](https://www.lyile.cn/articles/2020/12/01/1606811304022.html)
 * [《一生的学习》克里希那穆提](https://www.lyile.cn/articles/2020/11/30/1606724585825.html)
-* [我们的世界观不应该被对立的意识形态所影响](https://www.lyile.cn/articles/2020/11/27/1606469978277.html)
 * [ 阿里巴巴Java开发手册（详尽版）1528284352](https://www.lyile.cn/articles/2020/11/27/1606458186698.html)
 * [Java正则表达式正确食用方式](https://www.lyile.cn/articles/2020/11/26/1606379798134.html)
 * [宝塔部署最新版Solo博客](https://www.lyile.cn/articles/2020/11/20/1605840328957.html)
-* [失魂落魄的教育](https://www.lyile.cn/articles/2020/11/17/1605625512904.html)
 * [VisualStudio发布应用时未能创建默认证书](https://www.lyile.cn/articles/2020/11/16/1605492931586.html)
 * [VttConvertSrt | 字幕格式转化器](https://www.lyile.cn/articles/2020/11/13/1605259944087.html)
 * [美剧 The Chosen《拣选》第一季 IMDB9.7分](https://www.lyile.cn/articles/2020/11/13/1605233276889.html)
