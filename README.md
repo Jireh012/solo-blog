@@ -10,6 +10,7 @@ Jireh 的个人博客
 
 ### 最新
 
+* [Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!](https://www.lyile.cn/articles/2020/12/11/1607653217353.html)
 * [记录CVE-2020-1971: OpenSSL 拒绝服务漏洞解决过程](https://www.lyile.cn/articles/2020/12/10/1607587862347.html)
 * [OneHospital一个医院抢预约挂号工具](https://www.lyile.cn/articles/2020/12/10/1607569851989.html)
 * [#1071 - Specified key was too long; max key length is 767 bytes](https://www.lyile.cn/articles/2020/12/02/1606893127977.html)
@@ -29,7 +30,6 @@ Jireh 的个人博客
 * [Docker部署Superset](https://www.lyile.cn/articles/2020/11/03/1604372129177.html)
 * [Centos下Docker配置Http代理](https://www.lyile.cn/articles/2020/11/02/1604307765651.html)
 * [jetbrains-agent使用说明](https://www.lyile.cn/articles/2020/10/29/1603963946649.html)
-* [读书成诗解密题分析 一](https://www.lyile.cn/articles/2020/10/28/1603877832562.html)
 
 
 
