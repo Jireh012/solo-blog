@@ -10,6 +10,7 @@ Jireh 的个人博客
 
 ### 最新
 
+* [selenium报session not created from tab crashed异常](https://www.lyile.cn/articles/2021/01/08/1610070862654.html)
 * [nps傻瓜式一键安装脚本](https://www.lyile.cn/articles/2020/12/16/1608098400665.html)
 * [将本地Maven仓库上传到私服或阿里云效](https://www.lyile.cn/articles/2020/12/15/1608026194112.html)
 * [exe4j中引入lib类库文件夹不生效问题](https://www.lyile.cn/articles/2020/12/15/1608019261863.html)
@@ -29,7 +30,6 @@ Jireh 的个人博客
 * [【油盐小考】EX版格斗专场答案](https://www.lyile.cn/articles/2020/11/09/1604892512779.html)
 * [Solo 集成 Valine 评论系统](https://www.lyile.cn/articles/2020/11/06/1604656094535.html)
 * [《Watch Dogs Legion》(看门狗 : 军团) 源代码泄露](https://www.lyile.cn/articles/2020/11/05/1604567653048.html)
-* [突发，宝塔出事被警察带走了？](https://www.lyile.cn/articles/2020/11/03/1604384402861.html)
 
 
 
