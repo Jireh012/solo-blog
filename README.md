@@ -10,6 +10,8 @@ Jireh 的个人博客
 
 ### 最新
 
+* [【调音台】低切](https://www.lyile.cn/articles/2021/01/13/1610527838719.html)
+* [【调音台】避免啸音](https://www.lyile.cn/articles/2021/01/13/1610521740188.html)
 * [Git重置仓库的用户与密码](https://www.lyile.cn/articles/2021/01/12/1610442291930.html)
 * [selenium报session not created from tab crashed异常](https://www.lyile.cn/articles/2021/01/08/1610070862654.html)
 * [nps傻瓜式一键安装脚本](https://www.lyile.cn/articles/2020/12/16/1608098400665.html)
@@ -28,8 +30,6 @@ Jireh 的个人博客
 * [VttConvertSrt | 字幕格式转化器](https://www.lyile.cn/articles/2020/11/13/1605259944087.html)
 * [美剧 The Chosen《拣选》第一季 IMDB9.7分](https://www.lyile.cn/articles/2020/11/13/1605233276889.html)
 * [请我喝杯咖啡吧](https://www.lyile.cn/treat-me-to-coffee)
-* [【油盐小考】EX版格斗专场答案](https://www.lyile.cn/articles/2020/11/09/1604892512779.html)
-* [Solo 集成 Valine 评论系统](https://www.lyile.cn/articles/2020/11/06/1604656094535.html)
 
 
 
