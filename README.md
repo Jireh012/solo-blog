@@ -10,6 +10,7 @@ Jireh 的个人博客
 
 ### 最新
 
+* [Error for /proxy/8081/har java.lang.ExceptionInInitializerError: null](https://www.lyile.cn/articles/2021/01/19/1611038666638.html)
 * [【调音台】低切](https://www.lyile.cn/articles/2021/01/13/1610527838719.html)
 * [【调音台】避免啸音](https://www.lyile.cn/articles/2021/01/13/1610521740188.html)
 * [Git重置仓库的用户与密码](https://www.lyile.cn/articles/2021/01/12/1610442291930.html)
@@ -29,7 +30,6 @@ Jireh 的个人博客
 * [VisualStudio发布应用时未能创建默认证书](https://www.lyile.cn/articles/2020/11/16/1605492931586.html)
 * [VttConvertSrt | 字幕格式转化器](https://www.lyile.cn/articles/2020/11/13/1605259944087.html)
 * [美剧 The Chosen《拣选》第一季 IMDB9.7分](https://www.lyile.cn/articles/2020/11/13/1605233276889.html)
-* [请我喝杯咖啡吧](https://www.lyile.cn/treat-me-to-coffee)
 
 
 
