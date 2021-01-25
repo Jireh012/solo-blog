@@ -10,6 +10,7 @@ Jireh 的个人博客
 
 ### 最新
 
+* [error: resource android:attr/fontVariationSettings not found](https://www.lyile.cn/articles/2021/01/25/1611563752671.html)
 * [windows远程桌面不能复制修复](https://www.lyile.cn/articles/2021/01/20/1611130676211.html)
 * [python三目运算符](https://www.lyile.cn/articles/2021/01/20/1611109038173.html)
 * [Error for /proxy/8081/har java.lang.ExceptionInInitializerError: null](https://www.lyile.cn/articles/2021/01/19/1611038666638.html)
@@ -29,7 +30,6 @@ Jireh 的个人博客
 * [《一生的学习》克里希那穆提](https://www.lyile.cn/articles/2020/11/30/1606724585825.html)
 * [我们的世界观不应该被对立的意识形态所影响](https://www.lyile.cn/articles/2020/11/27/1606469978277.html)
 * [ 阿里巴巴Java开发手册（详尽版）1528284352](https://www.lyile.cn/articles/2020/11/27/1606458186698.html)
-* [Java正则表达式正确食用方式](https://www.lyile.cn/articles/2020/11/26/1606379798134.html)
 
 
 
