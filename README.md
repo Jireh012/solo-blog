@@ -10,6 +10,8 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [Android获取当前子网掩码地址（亲测可用）](https://www.lyile.cn/articles/2021/01/27/1611738521296.html)
+* [dotnet命令行程序指定监听和端口启动](https://www.lyile.cn/articles/2021/01/27/1611717854384.html)
 * [error: resource android:attr/fontVariationSettings not found](https://www.lyile.cn/articles/2021/01/25/1611563752671.html)
 * [windows远程桌面不能复制修复](https://www.lyile.cn/articles/2021/01/20/1611130676211.html)
 * [python三目运算符](https://www.lyile.cn/articles/2021/01/20/1611109038173.html)
@@ -28,8 +30,6 @@ Jireh程序猿的那些事
 * [#1071 - Specified key was too long; max key length is 767 bytes](https://www.lyile.cn/articles/2020/12/02/1606893127977.html)
 * [Windows通过nssm将frp（任意程序）配置成服务](https://www.lyile.cn/articles/2020/12/01/1606811304022.html)
 * [《一生的学习》克里希那穆提](https://www.lyile.cn/articles/2020/11/30/1606724585825.html)
-* [我们的世界观不应该被对立的意识形态所影响](https://www.lyile.cn/articles/2020/11/27/1606469978277.html)
-* [ 阿里巴巴Java开发手册（详尽版）1528284352](https://www.lyile.cn/articles/2020/11/27/1606458186698.html)
 
 
 
