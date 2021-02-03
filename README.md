@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [那，网站的备案更新了](https://www.lyile.cn/articles/2021/02/03/1612316204888.html)
 * [Sudo缓冲区溢出高危漏洞（CVE-2021-3156）修复记录](https://www.lyile.cn/articles/2021/01/28/1611824388817.html)
 * [Android获取当前子网掩码地址（亲测可用）](https://www.lyile.cn/articles/2021/01/27/1611738521296.html)
 * [dotnet命令行程序指定监听和端口启动](https://www.lyile.cn/articles/2021/01/27/1611717854384.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [记录一次群辉反向代理坑爹的问题](https://www.lyile.cn/articles/2020/12/10/1607584680741.html)
 * [OneHospital一个医院抢预约挂号工具](https://www.lyile.cn/articles/2020/12/10/1607569851989.html)
 * [#1071 - Specified key was too long; max key length is 767 bytes](https://www.lyile.cn/articles/2020/12/02/1606893127977.html)
-* [Windows通过nssm将frp（任意程序）配置成服务](https://www.lyile.cn/articles/2020/12/01/1606811304022.html)
 
 
 
