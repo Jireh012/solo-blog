@@ -10,6 +10,10 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [Cleartext HTTP traffic to {address} not permitted](https://www.lyile.cn/articles/2021/02/06/1612604811689.html)
+* [SQL 在left join和inner join中使用Like模糊关联](https://www.lyile.cn/articles/2021/02/06/1612580677948.html)
+* [SQL Server个版本序列号](https://www.lyile.cn/articles/2021/02/05/1612495647203.html)
+* [Docker下部署SqlServer2019](https://www.lyile.cn/articles/2021/02/05/1612495490738.html)
 * [那，网站的备案更新了](https://www.lyile.cn/articles/2021/02/03/1612316204888.html)
 * [Sudo缓冲区溢出高危漏洞（CVE-2021-3156）修复记录](https://www.lyile.cn/articles/2021/01/28/1611824388817.html)
 * [Android获取当前子网掩码地址（亲测可用）](https://www.lyile.cn/articles/2021/01/27/1611738521296.html)
@@ -26,10 +30,6 @@ Jireh程序猿的那些事
 * [将本地Maven仓库上传到私服或阿里云效](https://www.lyile.cn/articles/2020/12/15/1608026194112.html)
 * [exe4j中引入lib类库文件夹不生效问题](https://www.lyile.cn/articles/2020/12/15/1608019261863.html)
 * [Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!](https://www.lyile.cn/articles/2020/12/11/1607653217353.html)
-* [记录CVE-2020-1971: OpenSSL 拒绝服务漏洞解决过程](https://www.lyile.cn/articles/2020/12/10/1607587862347.html)
-* [记录一次群辉反向代理坑爹的问题](https://www.lyile.cn/articles/2020/12/10/1607584680741.html)
-* [OneHospital一个医院抢预约挂号工具](https://www.lyile.cn/articles/2020/12/10/1607569851989.html)
-* [#1071 - Specified key was too long; max key length is 767 bytes](https://www.lyile.cn/articles/2020/12/02/1606893127977.html)
 
 
 
