@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [SqlServer获取某个日期当前所在周](https://www.lyile.cn/articles/2021/02/07/1612684886764.html)
 * [Cleartext HTTP traffic to {address} not permitted](https://www.lyile.cn/articles/2021/02/06/1612604811689.html)
 * [SQL 在left join和inner join中使用Like模糊关联](https://www.lyile.cn/articles/2021/02/06/1612580677948.html)
 * [SQL Server个版本序列号](https://www.lyile.cn/articles/2021/02/05/1612495647203.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [nps傻瓜式一键安装脚本](https://www.lyile.cn/articles/2020/12/16/1608098400665.html)
 * [将本地Maven仓库上传到私服或阿里云效](https://www.lyile.cn/articles/2020/12/15/1608026194112.html)
 * [exe4j中引入lib类库文件夹不生效问题](https://www.lyile.cn/articles/2020/12/15/1608019261863.html)
-* [Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!](https://www.lyile.cn/articles/2020/12/11/1607653217353.html)
 
 
 
