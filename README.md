@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [推荐UDP/TCP通信测试工具](https://www.lyile.cn/articles/2021/02/09/1612832955201.html)
 * [基于Chrome内核浏览器自带下载器开启多线程下载](https://www.lyile.cn/articles/2021/02/08/1612776754780.html)
 * [SqlServer获取某个日期当前所在周](https://www.lyile.cn/articles/2021/02/07/1612684886764.html)
 * [Cleartext HTTP traffic to {address} not permitted](https://www.lyile.cn/articles/2021/02/06/1612604811689.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [Git重置仓库的用户与密码](https://www.lyile.cn/articles/2021/01/12/1610442291930.html)
 * [selenium报session not created from tab crashed异常](https://www.lyile.cn/articles/2021/01/08/1610070862654.html)
 * [nps傻瓜式一键安装脚本](https://www.lyile.cn/articles/2020/12/16/1608098400665.html)
-* [将本地Maven仓库上传到私服或阿里云效](https://www.lyile.cn/articles/2020/12/15/1608026194112.html)
 
 
 
