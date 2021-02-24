@@ -10,6 +10,8 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [Linux下修改Docker存储地址](https://www.lyile.cn/articles/2021/02/24/1614149482692.html)
+* [Docker容器开机自动启动](https://www.lyile.cn/articles/2021/02/24/1614129712602.html)
 * [logstash重载配置](https://www.lyile.cn/articles/2021/02/18/1613637023024.html)
 * [logstash配置文件说明](https://www.lyile.cn/articles/2021/02/18/1613634074333.html)
 * [UDP/TCP通信测试工具推荐](https://www.lyile.cn/articles/2021/02/09/1612832955201.html)
@@ -28,8 +30,6 @@ Jireh程序猿的那些事
 * [python三目运算符](https://www.lyile.cn/articles/2021/01/20/1611109038173.html)
 * [Error for /proxy/8081/har java.lang.ExceptionInInitializerError: null](https://www.lyile.cn/articles/2021/01/19/1611038666638.html)
 * [【调音台】低切](https://www.lyile.cn/articles/2021/01/13/1610527838719.html)
-* [【调音台】避免啸音](https://www.lyile.cn/articles/2021/01/13/1610521740188.html)
-* [Git重置仓库的用户与密码](https://www.lyile.cn/articles/2021/01/12/1610442291930.html)
 
 
 
