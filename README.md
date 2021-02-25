@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [Linux使用代理连接网络](https://www.lyile.cn/articles/2021/02/25/1614222309571.html)
 * [Linux下修改Docker存储地址](https://www.lyile.cn/articles/2021/02/24/1614149482692.html)
 * [Docker容器开机自动启动](https://www.lyile.cn/articles/2021/02/24/1614129712602.html)
 * [logstash重载配置](https://www.lyile.cn/articles/2021/02/18/1613637023024.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [windows远程桌面不能复制修复](https://www.lyile.cn/articles/2021/01/20/1611130676211.html)
 * [python三目运算符](https://www.lyile.cn/articles/2021/01/20/1611109038173.html)
 * [Error for /proxy/8081/har java.lang.ExceptionInInitializerError: null](https://www.lyile.cn/articles/2021/01/19/1611038666638.html)
-* [【调音台】低切](https://www.lyile.cn/articles/2021/01/13/1610527838719.html)
 
 
 
