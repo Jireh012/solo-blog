@@ -10,6 +10,8 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [软件开发文档](https://www.lyile.cn/articles/2021/02/26/1614307404432.html)
+* [Pilot手机通讯协议(2021-2-9)](https://www.lyile.cn/articles/2021/02/25/1614233976776.html)
 * [Linux使用代理连接网络](https://www.lyile.cn/articles/2021/02/25/1614222309571.html)
 * [Linux下修改Docker存储地址](https://www.lyile.cn/articles/2021/02/24/1614149482692.html)
 * [Docker容器开机自动启动](https://www.lyile.cn/articles/2021/02/24/1614129712602.html)
@@ -28,8 +30,6 @@ Jireh程序猿的那些事
 * [dotnet命令行程序指定监听和端口启动](https://www.lyile.cn/articles/2021/01/27/1611717854384.html)
 * [error: resource android:attr/fontVariationSettings not found](https://www.lyile.cn/articles/2021/01/25/1611563752671.html)
 * [windows远程桌面不能复制修复](https://www.lyile.cn/articles/2021/01/20/1611130676211.html)
-* [python三目运算符](https://www.lyile.cn/articles/2021/01/20/1611109038173.html)
-* [Error for /proxy/8081/har java.lang.ExceptionInInitializerError: null](https://www.lyile.cn/articles/2021/01/19/1611038666638.html)
 
 
 
