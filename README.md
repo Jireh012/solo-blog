@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [Gitea修改文件上传大小限制](https://www.lyile.cn/articles/2021/03/04/1614841417314.html)
 * [软件开发文档](https://www.lyile.cn/articles/2021/02/26/1614307404432.html)
 * [Pilot手机通讯协议(2021-2-9)](https://www.lyile.cn/articles/2021/02/25/1614233976776.html)
 * [Linux使用代理连接网络](https://www.lyile.cn/articles/2021/02/25/1614222309571.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [Android获取当前子网掩码地址（亲测可用）](https://www.lyile.cn/articles/2021/01/27/1611738521296.html)
 * [dotnet命令行程序指定监听和端口启动](https://www.lyile.cn/articles/2021/01/27/1611717854384.html)
 * [error: resource android:attr/fontVariationSettings not found](https://www.lyile.cn/articles/2021/01/25/1611563752671.html)
-* [windows远程桌面不能复制修复](https://www.lyile.cn/articles/2021/01/20/1611130676211.html)
 
 
 
