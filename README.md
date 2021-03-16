@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [记录一下,今天的中国很赛博朋克](https://www.lyile.cn/articles/2021/03/16/1615861306174.html)
 * [Win10微软输入法快速输入时间](https://www.lyile.cn/articles/2021/03/05/1614939189930.html)
 * [一行代码加入爱心❤点击效果](https://www.lyile.cn/articles/2021/03/05/1614936917253.html)
 * [瑞幸耶加雪菲澳瑞白喝后感](https://www.lyile.cn/articles/2021/03/05/1614931644094.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [SQL Server个版本序列号](https://www.lyile.cn/articles/2021/02/05/1612495647203.html)
 * [Docker下部署SqlServer2019](https://www.lyile.cn/articles/2021/02/05/1612495490738.html)
 * [那，网站的备案更新了](https://www.lyile.cn/articles/2021/02/03/1612316204888.html)
-* [Sudo缓冲区溢出高危漏洞（CVE-2021-3156）修复记录](https://www.lyile.cn/articles/2021/01/28/1611824388817.html)
 
 
 
