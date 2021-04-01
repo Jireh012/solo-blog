@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [Asp.Net WebForm实现ashx接口访问记录](https://www.lyile.cn/articles/2021/04/01/1617263953910.html)
 * [最简单的理解公钥私钥的例子](https://www.lyile.cn/articles/2021/03/30/1617088879347.html)
 * [IDEA常用快捷键](https://www.lyile.cn/articles/2021/03/29/1616985117918.html)
 * [SpringBoot 接口幂等性的实现](https://www.lyile.cn/articles/2021/03/26/1616728038509.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [logstash配置文件说明](https://www.lyile.cn/articles/2021/02/18/1613634074333.html)
 * [UDP/TCP通信测试工具推荐](https://www.lyile.cn/articles/2021/02/09/1612832955201.html)
 * [基于Chrome内核浏览器自带下载器开启多线程下载](https://www.lyile.cn/articles/2021/02/08/1612776754780.html)
-* [SqlServer获取某个日期当前所在周](https://www.lyile.cn/articles/2021/02/07/1612684886764.html)
 
 
 
