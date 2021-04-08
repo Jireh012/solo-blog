@@ -10,6 +10,8 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [温州人力资源题库](https://www.lyile.cn/articles/2021/04/08/1617869683729.html)
+* [Nginx禁止GoogleBot抓取](https://www.lyile.cn/articles/2021/04/08/1617867332616.html)
 * [Types cannot be provided in put mapping requests, unless the include_type_name parameter is set to true](https://www.lyile.cn/articles/2021/04/06/1617689815461.html)
 * [Asp.Net WebForm实现ashx接口访问记录](https://www.lyile.cn/articles/2021/04/01/1617263953910.html)
 * [最简单的理解公钥私钥的例子](https://www.lyile.cn/articles/2021/03/30/1617088879347.html)
@@ -28,8 +30,6 @@ Jireh程序猿的那些事
 * [Linux下修改Docker存储地址](https://www.lyile.cn/articles/2021/02/24/1614149482692.html)
 * [Docker容器开机自动启动](https://www.lyile.cn/articles/2021/02/24/1614129712602.html)
 * [logstash重载配置](https://www.lyile.cn/articles/2021/02/18/1613637023024.html)
-* [logstash配置文件说明](https://www.lyile.cn/articles/2021/02/18/1613634074333.html)
-* [UDP/TCP通信测试工具推荐](https://www.lyile.cn/articles/2021/02/09/1612832955201.html)
 
 
 
