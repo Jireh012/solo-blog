@@ -17,7 +17,7 @@ Jireh程序猿的那些事
 * [最简单的理解公钥私钥的例子](https://www.lyile.cn/articles/2021/03/30/1617088879347.html)
 * [IDEA常用快捷键](https://www.lyile.cn/articles/2021/03/29/1616985117918.html)
 * [SpringBoot 接口幂等性的实现](https://www.lyile.cn/articles/2021/03/26/1616728038509.html)
-* [阿里云盘福利兑换码（4.07更新）](https://www.lyile.cn/articles/2021/03/23/1616484490189.html)
+* [阿里云盘福利兑换码（4.12更新）](https://www.lyile.cn/articles/2021/03/23/1616484490189.html)
 * [Solo博客Casper主题添加文章过期提醒](https://www.lyile.cn/articles/2021/03/17/1615991789226.html)
 * [记录一下,今天的中国很赛博朋克](https://www.lyile.cn/articles/2021/03/16/1615861306174.html)
 * [Win10微软输入法快速输入时间](https://www.lyile.cn/articles/2021/03/05/1614939189930.html)
