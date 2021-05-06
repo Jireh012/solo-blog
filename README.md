@@ -10,6 +10,8 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [Debian升级OpenSSH至最新版本](https://www.lyile.cn/articles/2021/05/06/1620290953522.html)
+* [ZArchiverPro0.9.4测试版](https://www.lyile.cn/articles/2021/05/06/1620268117693.html)
 * [温州人力资源题库](https://www.lyile.cn/articles/2021/04/08/1617869683729.html)
 * [Nginx禁止GoogleBot抓取](https://www.lyile.cn/articles/2021/04/08/1617867332616.html)
 * [Types cannot be provided in put mapping requests, unless the include_type_name parameter is set to true](https://www.lyile.cn/articles/2021/04/06/1617689815461.html)
@@ -28,8 +30,6 @@ Jireh程序猿的那些事
 * [Pilot手机通讯协议(2021-2-9)](https://www.lyile.cn/articles/2021/02/25/1614233976776.html)
 * [Linux使用代理连接网络](https://www.lyile.cn/articles/2021/02/25/1614222309571.html)
 * [Linux下修改Docker存储地址](https://www.lyile.cn/articles/2021/02/24/1614149482692.html)
-* [Docker容器开机自动启动](https://www.lyile.cn/articles/2021/02/24/1614129712602.html)
-* [logstash重载配置](https://www.lyile.cn/articles/2021/02/18/1613637023024.html)
 
 
 
