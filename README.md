@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [Nginx限制爬虫抓取频率](https://www.lyile.cn/articles/2021/05/10/1620610756852.html)
 * [Debian升级OpenSSH至最新版本](https://www.lyile.cn/articles/2021/05/06/1620290953522.html)
 * [ZArchiverPro0.9.4测试版](https://www.lyile.cn/articles/2021/05/06/1620268117693.html)
 * [温州人力资源题库](https://www.lyile.cn/articles/2021/04/08/1617869683729.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [软件开发文档](https://www.lyile.cn/articles/2021/02/26/1614307404432.html)
 * [Pilot手机通讯协议(2021-2-9)](https://www.lyile.cn/articles/2021/02/25/1614233976776.html)
 * [Linux使用代理连接网络](https://www.lyile.cn/articles/2021/02/25/1614222309571.html)
-* [Linux下修改Docker存储地址](https://www.lyile.cn/articles/2021/02/24/1614149482692.html)
 
 
 
