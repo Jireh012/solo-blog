@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [navicat oracle library is not loaded](https://www.lyile.cn/articles/2021/05/19/1621388290009.html)
 * [The server selected protocol version TLS10 is not accepted by client preferences [TLS12]](https://www.lyile.cn/articles/2021/05/13/1620896063074.html)
 * [Nginx限制爬虫抓取频率](https://www.lyile.cn/articles/2021/05/10/1620610756852.html)
 * [Debian升级OpenSSH至最新版本](https://www.lyile.cn/articles/2021/05/06/1620290953522.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [瑞幸耶加雪菲澳瑞白喝后感](https://www.lyile.cn/articles/2021/03/05/1614931644094.html)
 * [Gitea修改文件上传大小限制](https://www.lyile.cn/articles/2021/03/04/1614841417314.html)
 * [软件开发文档](https://www.lyile.cn/articles/2021/02/26/1614307404432.html)
-* [Pilot手机通讯协议(2021-2-9)](https://www.lyile.cn/articles/2021/02/25/1614233976776.html)
 
 
 
