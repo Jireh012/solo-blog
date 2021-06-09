@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [Temporary failure resolving 'archive.ubuntu.com'](https://www.lyile.cn/articles/2021/06/09/1623206198123.html)
 * [Win10下Docker映射本地路径](https://www.lyile.cn/articles/2021/06/08/1623117734013.html)
 * [The requested FontFamily could not be found [GDI+ status: FontFamilyNotFound]](https://www.lyile.cn/articles/2021/06/08/1623115153847.html)
 * [美剧《拣选》第二季正在更新](https://www.lyile.cn/articles/2021/05/31/1622447502781.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [Solo博客Casper主题添加文章过期提醒](https://www.lyile.cn/articles/2021/03/17/1615991789226.html)
 * [记录一下,今天的中国很赛博朋克](https://www.lyile.cn/articles/2021/03/16/1615861306174.html)
 * [Win10微软输入法快速输入时间](https://www.lyile.cn/articles/2021/03/05/1614939189930.html)
-* [一行代码加入爱心❤点击效果](https://www.lyile.cn/articles/2021/03/05/1614936917253.html)
 
 
 
