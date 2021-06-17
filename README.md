@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [Failed to set version to docker-desktop: exit code: -1  stdout: �S��v�[a�{|�W N/ec\Ջ�v�d\O0](https://www.lyile.cn/articles/2021/06/17/1623918094777.html)
 * [机场使用记录 | Internet](https://www.lyile.cn/articles/2021/06/16/1623827872676.html)
 * [Temporary failure resolving 'archive.ubuntu.com'](https://www.lyile.cn/articles/2021/06/09/1623206198123.html)
 * [Win10下Docker映射本地路径](https://www.lyile.cn/articles/2021/06/08/1623117734013.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [SpringBoot 接口幂等性的实现](https://www.lyile.cn/articles/2021/03/26/1616728038509.html)
 * [阿里云盘福利兑换码（4.12更新）](https://www.lyile.cn/articles/2021/03/23/1616484490189.html)
 * [Solo博客Casper主题添加文章过期提醒](https://www.lyile.cn/articles/2021/03/17/1615991789226.html)
-* [记录一下,今天的中国很赛博朋克](https://www.lyile.cn/articles/2021/03/16/1615861306174.html)
 
 
 
