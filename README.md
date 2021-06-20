@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [国内vps安装github源pyenv-installer失败问题](https://www.lyile.cn/articles/2021/06/20/1624172237672.html)
 * [Failed to set version to docker-desktop: exit code: -1  stdout: �S��v�[a�{|�W N/ec\Ջ�v�d\O0](https://www.lyile.cn/articles/2021/06/17/1623918094777.html)
 * [机场使用记录 | Internet](https://www.lyile.cn/articles/2021/06/16/1623827872676.html)
 * [Temporary failure resolving 'archive.ubuntu.com'](https://www.lyile.cn/articles/2021/06/09/1623206198123.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [IDEA常用快捷键](https://www.lyile.cn/articles/2021/03/29/1616985117918.html)
 * [SpringBoot 接口幂等性的实现](https://www.lyile.cn/articles/2021/03/26/1616728038509.html)
 * [阿里云盘福利兑换码（4.12更新）](https://www.lyile.cn/articles/2021/03/23/1616484490189.html)
-* [Solo博客Casper主题添加文章过期提醒](https://www.lyile.cn/articles/2021/03/17/1615991789226.html)
 
 
 
