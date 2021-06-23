@@ -10,6 +10,10 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [Maven打包时报错：程序包sun.java2d.cmm不存在](https://www.lyile.cn/articles/2021/06/23/1624417570714.html)
+* [V2宝塔tls+ws伪装反代配置](https://www.lyile.cn/articles/2021/06/23/1624416573387.html)
+* [Amazon Lightsail启用Root账户(适用于EC2等)](https://www.lyile.cn/articles/2021/06/22/1624353880163.html)
+* [7za: command not found](https://www.lyile.cn/articles/2021/06/22/1624350164540.html)
 * [国内vps安装github源pyenv-installer失败问题](https://www.lyile.cn/articles/2021/06/20/1624172237672.html)
 * [Failed to set version to docker-desktop: exit code: -1  stdout: �S��v�[a�{|�W N/ec\Ջ�v�d\O0](https://www.lyile.cn/articles/2021/06/17/1623918094777.html)
 * [机场使用记录 | Internet](https://www.lyile.cn/articles/2021/06/16/1623827872676.html)
@@ -26,10 +30,6 @@ Jireh程序猿的那些事
 * [Nginx禁止GoogleBot抓取](https://www.lyile.cn/articles/2021/04/08/1617867332616.html)
 * [Types cannot be provided in put mapping requests, unless the include_type_name parameter is set to true](https://www.lyile.cn/articles/2021/04/06/1617689815461.html)
 * [Asp.Net WebForm实现ashx接口访问记录](https://www.lyile.cn/articles/2021/04/01/1617263953910.html)
-* [最简单的理解公钥私钥的例子](https://www.lyile.cn/articles/2021/03/30/1617088879347.html)
-* [IDEA常用快捷键](https://www.lyile.cn/articles/2021/03/29/1616985117918.html)
-* [SpringBoot 接口幂等性的实现](https://www.lyile.cn/articles/2021/03/26/1616728038509.html)
-* [阿里云盘福利兑换码（4.12更新）](https://www.lyile.cn/articles/2021/03/23/1616484490189.html)
 
 
 
