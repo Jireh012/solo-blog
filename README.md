@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [oracle invalid common user or role name](https://www.lyile.cn/articles/2021/06/24/1624512944354.html)
 * [Maven打包时报错：程序包sun.java2d.cmm不存在](https://www.lyile.cn/articles/2021/06/23/1624417570714.html)
 * [V2宝塔tls+ws伪装反代配置](https://www.lyile.cn/articles/2021/06/23/1624416573387.html)
 * [Amazon Lightsail启用Root账户(适用于EC2等)](https://www.lyile.cn/articles/2021/06/22/1624353880163.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [温州人力资源题库](https://www.lyile.cn/articles/2021/04/08/1617869683729.html)
 * [Nginx禁止GoogleBot抓取](https://www.lyile.cn/articles/2021/04/08/1617867332616.html)
 * [Types cannot be provided in put mapping requests, unless the include_type_name parameter is set to true](https://www.lyile.cn/articles/2021/04/06/1617689815461.html)
-* [Asp.Net WebForm实现ashx接口访问记录](https://www.lyile.cn/articles/2021/04/01/1617263953910.html)
 
 
 
