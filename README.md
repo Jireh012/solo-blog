@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [Windows 11官方原版镜像（附带激活）](https://www.lyile.cn/articles/2021/06/25/1624584764498.html)
 * [oracle invalid common user or role name](https://www.lyile.cn/articles/2021/06/24/1624512944354.html)
 * [Maven打包时报错：程序包sun.java2d.cmm不存在](https://www.lyile.cn/articles/2021/06/23/1624417570714.html)
 * [V2宝塔tls+ws伪装反代配置](https://www.lyile.cn/articles/2021/06/23/1624416573387.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [ZArchiverPro0.9.4测试版](https://www.lyile.cn/articles/2021/05/06/1620268117693.html)
 * [温州人力资源题库](https://www.lyile.cn/articles/2021/04/08/1617869683729.html)
 * [Nginx禁止GoogleBot抓取](https://www.lyile.cn/articles/2021/04/08/1617867332616.html)
-* [Types cannot be provided in put mapping requests, unless the include_type_name parameter is set to true](https://www.lyile.cn/articles/2021/04/06/1617689815461.html)
 
 
 
