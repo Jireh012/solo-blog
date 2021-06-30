@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [马里奥对接V2](https://www.lyile.cn/articles/2021/06/30/1625036335483.html)
 * [Git删除远程文件夹](https://www.lyile.cn/articles/2021/06/28/1624845248344.html)
 * [Windows 11官方原版镜像（附带激活）](https://www.lyile.cn/articles/2021/06/25/1624584764498.html)
 * [oracle invalid common user or role name](https://www.lyile.cn/articles/2021/06/24/1624512944354.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [Nginx限制爬虫抓取频率](https://www.lyile.cn/articles/2021/05/10/1620610756852.html)
 * [Debian升级OpenSSH至最新版本](https://www.lyile.cn/articles/2021/05/06/1620290953522.html)
 * [ZArchiverPro0.9.4测试版](https://www.lyile.cn/articles/2021/05/06/1620268117693.html)
-* [温州人力资源题库](https://www.lyile.cn/articles/2021/04/08/1617869683729.html)
 
 
 
