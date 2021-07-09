@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [小米11|MIUI12.5|Android11解决HttpCanary证书无法安装的问题](https://www.lyile.cn/articles/2021/07/09/1625800253225.html)
 * [马里奥对接V2](https://www.lyile.cn/articles/2021/06/30/1625036335483.html)
 * [Git删除远程文件夹](https://www.lyile.cn/articles/2021/06/28/1624845248344.html)
 * [Windows 11官方原版镜像（附带激活）](https://www.lyile.cn/articles/2021/06/25/1624584764498.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [The server selected protocol version TLS10 is not accepted by client preferences [TLS12]](https://www.lyile.cn/articles/2021/05/13/1620896063074.html)
 * [Nginx限制爬虫抓取频率](https://www.lyile.cn/articles/2021/05/10/1620610756852.html)
 * [Debian升级OpenSSH至最新版本](https://www.lyile.cn/articles/2021/05/06/1620290953522.html)
-* [ZArchiverPro0.9.4测试版](https://www.lyile.cn/articles/2021/05/06/1620268117693.html)
 
 
 
