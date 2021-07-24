@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [Vue项目发布到Nginx上出现404错误](https://www.lyile.cn/articles/2021/07/23/1627022300007.html)
 * [腾讯云卸载云镜](https://www.lyile.cn/articles/2021/07/13/1626144183120.html)
 * [微信在后台监听我们的语音聊天？](https://www.lyile.cn/articles/2021/07/11/1626018641614.html)
 * [小米11|MIUI12.5|Android11解决HttpCanary证书无法安装的问题](https://www.lyile.cn/articles/2021/07/09/1625800253225.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [The requested FontFamily could not be found [GDI+ status: FontFamilyNotFound]](https://www.lyile.cn/articles/2021/06/08/1623115153847.html)
 * [美剧《拣选》第二季正在更新](https://www.lyile.cn/articles/2021/05/31/1622447502781.html)
 * [navicat oracle library is not loaded](https://www.lyile.cn/articles/2021/05/19/1621388290009.html)
-* [The server selected protocol version TLS10 is not accepted by client preferences [TLS12]](https://www.lyile.cn/articles/2021/05/13/1620896063074.html)
 
 
 
