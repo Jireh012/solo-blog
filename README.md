@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [Android解锁system分区新姿势](https://www.lyile.cn/articles/2021/08/25/1629872502831.html)
 * [Git提交信息的表情符号指南](https://www.lyile.cn/articles/2021/08/23/1629710807721.html)
 * [【开源推荐】SSLContext Kickstart 一个SSL工厂类库](https://www.lyile.cn/articles/2021/08/18/1629270890501.html)
 * [防范P2P终结者工具攻击方案 | ARP防火墙](https://www.lyile.cn/articles/2021/08/16/1629103745626.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [V2宝塔tls+ws伪装反代配置](https://www.lyile.cn/articles/2021/06/23/1624416573387.html)
 * [Amazon Lightsail启用Root账户(适用于EC2等)](https://www.lyile.cn/articles/2021/06/22/1624353880163.html)
 * [7za: command not found](https://www.lyile.cn/articles/2021/06/22/1624350164540.html)
-* [国内vps安装github源pyenv-installer失败问题](https://www.lyile.cn/articles/2021/06/20/1624172237672.html)
 
 
 
