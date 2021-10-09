@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [【转】el-table遍历循环表头和表体数据](https://www.lyile.cn/articles/2021/10/09/1633775762481.html)
 * [idea设置代码自动换行](https://www.lyile.cn/articles/2021/09/07/1631005403706.html)
 * [node --max-old-space-size=10240 不是内部或外部命令,也不是可运行的程序](https://www.lyile.cn/articles/2021/09/01/1630486876748.html)
 * [Git SSL certificate problem: unable to get local issuer certificate](https://www.lyile.cn/articles/2021/09/01/1630471866064.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [小米11|MIUI12.5|Android11解决HttpCanary证书无法安装的问题](https://www.lyile.cn/articles/2021/07/09/1625800253225.html)
 * [马里奥对接V2](https://www.lyile.cn/articles/2021/06/30/1625036335483.html)
 * [Git删除远程文件夹](https://www.lyile.cn/articles/2021/06/28/1624845248344.html)
-* [Windows 11官方原版镜像（附带激活）](https://www.lyile.cn/articles/2021/06/25/1624584764498.html)
 
 
 
