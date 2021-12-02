@@ -10,6 +10,8 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [微信历史版本下载](https://www.lyile.cn/articles/2021/12/02/1638433783345.html)
+* [kubernetes containerd http: server gave HTTP response to HTTPS client](https://www.lyile.cn/articles/2021/12/02/1638409755466.html)
 * [安装calico客户端工具calicoctl](https://www.lyile.cn/articles/2021/12/01/1638348484646.html)
 * [ [ERROR FileContent--proc-sys-net-ipv4-ip_forward]: /proc/sys/net/ipv4/ip_forward contents are not set to 1](https://www.lyile.cn/articles/2021/11/24/1637741194224.html)
 * [System.Net.Sockets.SocketException (0x80004005): 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作](https://www.lyile.cn/articles/2021/10/29/1635499351468.html)
@@ -28,8 +30,6 @@ Jireh程序猿的那些事
 * [Netty实现pem证书格式的wss协议](https://www.lyile.cn/articles/2021/08/16/1629077792469.html)
 * [私有化视频会议解决方案](https://www.lyile.cn/articles/2021/08/12/1628755759056.html)
 * [Jenkins内存占用过大优化](https://www.lyile.cn/articles/2021/07/30/1627631132270.html)
-* [Vue项目发布到Nginx上出现404错误](https://www.lyile.cn/articles/2021/07/23/1627022300007.html)
-* [腾讯云卸载云镜](https://www.lyile.cn/articles/2021/07/13/1626144183120.html)
 
 
 
