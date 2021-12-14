@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [Nginx配置SSL（Let‘s Encrypt）](https://www.lyile.cn/articles/2021/12/14/1639475074600.html)
 * [微信历史版本下载](https://www.lyile.cn/articles/2021/12/02/1638433783345.html)
 * [kubernetes containerd http: server gave HTTP response to HTTPS client](https://www.lyile.cn/articles/2021/12/02/1638409755466.html)
 * [安装calico客户端工具calicoctl](https://www.lyile.cn/articles/2021/12/01/1638348484646.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [P2P终结者[最高权限版]](https://www.lyile.cn/articles/2021/08/16/1629101728925.html)
 * [Netty实现pem证书格式的wss协议](https://www.lyile.cn/articles/2021/08/16/1629077792469.html)
 * [私有化视频会议解决方案](https://www.lyile.cn/articles/2021/08/12/1628755759056.html)
-* [Jenkins内存占用过大优化](https://www.lyile.cn/articles/2021/07/30/1627631132270.html)
 
 
 
