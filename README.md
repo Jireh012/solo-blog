@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [提问的智慧](https://www.lyile.cn/articles/2021/12/15/1639532300690.html)
 * [Nginx配置SSL（Let‘s Encrypt）](https://www.lyile.cn/articles/2021/12/14/1639475074600.html)
 * [微信历史版本下载](https://www.lyile.cn/articles/2021/12/02/1638433783345.html)
 * [kubernetes containerd http: server gave HTTP response to HTTPS client](https://www.lyile.cn/articles/2021/12/02/1638409755466.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [防范P2P终结者工具攻击方案 | ARP防火墙](https://www.lyile.cn/articles/2021/08/16/1629103745626.html)
 * [P2P终结者[最高权限版]](https://www.lyile.cn/articles/2021/08/16/1629101728925.html)
 * [Netty实现pem证书格式的wss协议](https://www.lyile.cn/articles/2021/08/16/1629077792469.html)
-* [私有化视频会议解决方案](https://www.lyile.cn/articles/2021/08/12/1628755759056.html)
 
 
 
