@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [解决Chrome无法翻译网页](https://www.lyile.cn/articles/2022/02/17/1645060512804.html)
 * [Netflix巴西 4K+HDR](https://www.lyile.cn/articles/2022/01/17/1642389833430.html)
 * [MT一键搭建白名单模式](https://www.lyile.cn/articles/2022/01/10/1641782164468.html)
 * [提问的智慧](https://www.lyile.cn/articles/2021/12/15/1639532300690.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [Android解锁system分区新姿势](https://www.lyile.cn/articles/2021/08/25/1629872502831.html)
 * [Git提交信息的表情符号指南](https://www.lyile.cn/articles/2021/08/23/1629710807721.html)
 * [【开源推荐】SSLContext Kickstart 一个SSL工厂类库](https://www.lyile.cn/articles/2021/08/18/1629270890501.html)
-* [防范P2P终结者工具攻击方案 | ARP防火墙](https://www.lyile.cn/articles/2021/08/16/1629103745626.html)
 
 
 
