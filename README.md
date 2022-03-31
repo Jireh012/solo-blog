@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [TeslaMate+宝塔Nginx反代配置](https://www.lyile.cn/articles/2022/03/31/1648692344568.html)
 * [Harbor创建任意项目提示项目已存在解决办法](https://www.lyile.cn/articles/2022/03/04/1646363168512.html)
 * [解决Chrome无法翻译网页](https://www.lyile.cn/articles/2022/02/17/1645060512804.html)
 * [Netflix巴西 4K+HDR](https://www.lyile.cn/articles/2022/01/17/1642389833430.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [Error running Application. Command line is too long.](https://www.lyile.cn/articles/2021/09/01/1630460032162.html)
 * [Application: Failed to retrieve application JMX service URL](https://www.lyile.cn/articles/2021/09/01/1630458271161.html)
 * [Android解锁system分区新姿势](https://www.lyile.cn/articles/2021/08/25/1629872502831.html)
-* [Git提交信息的表情符号指南](https://www.lyile.cn/articles/2021/08/23/1629710807721.html)
 
 
 
