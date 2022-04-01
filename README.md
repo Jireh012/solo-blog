@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [Caused by: net.sf.jsqlparser.parser.ParseException: Encountered unexpected token: "with" "WITH"](https://www.lyile.cn/articles/2022/04/01/1648806706513.html)
 * [TeslaMate+宝塔Nginx反代配置](https://www.lyile.cn/articles/2022/03/31/1648692344568.html)
 * [Harbor创建任意项目提示项目已存在解决办法](https://www.lyile.cn/articles/2022/03/04/1646363168512.html)
 * [解决Chrome无法翻译网页](https://www.lyile.cn/articles/2022/02/17/1645060512804.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [Git SSL certificate problem: unable to get local issuer certificate](https://www.lyile.cn/articles/2021/09/01/1630471866064.html)
 * [Error running Application. Command line is too long.](https://www.lyile.cn/articles/2021/09/01/1630460032162.html)
 * [Application: Failed to retrieve application JMX service URL](https://www.lyile.cn/articles/2021/09/01/1630458271161.html)
-* [Android解锁system分区新姿势](https://www.lyile.cn/articles/2021/08/25/1629872502831.html)
 
 
 
