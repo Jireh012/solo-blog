@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [x509: certificate signed by unknown authority](https://jireh.xyz/articles/2022/06/17/1655450501367.html)
 * [Fastjson 1.2.80及以下存在Throwable 反序列化漏洞](https://jireh.xyz/articles/2022/05/24/1653360770593.html)
 * [Caused by: net.sf.jsqlparser.parser.ParseException: Encountered unexpected token: "with" "WITH"](https://jireh.xyz/articles/2022/04/01/1648806706513.html)
 * [TeslaMate+宝塔Nginx反代配置](https://jireh.xyz/articles/2022/03/31/1648692344568.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [idea设置代码自动换行](https://jireh.xyz/articles/2021/09/07/1631005403706.html)
 * [node --max-old-space-size=10240 不是内部或外部命令,也不是可运行的程序](https://jireh.xyz/articles/2021/09/01/1630486876748.html)
 * [Git SSL certificate problem: unable to get local issuer certificate](https://jireh.xyz/articles/2021/09/01/1630471866064.html)
-* [Error running Application. Command line is too long.](https://jireh.xyz/articles/2021/09/01/1630460032162.html)
 
 
 
