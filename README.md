@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [【严重】Nps鉴权绕过0day漏洞](https://jireh.xyz/articles/2022/08/10/1660122191957.html)
 * [Centos安装Oracle客户端](https://jireh.xyz/articles/2022/06/24/1656061883986.html)
 * [x509: certificate signed by unknown authority](https://jireh.xyz/articles/2022/06/17/1655450501367.html)
 * [Fastjson 1.2.80及以下存在Throwable 反序列化漏洞](https://jireh.xyz/articles/2022/05/24/1653360770593.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [IDEA Service窗口没有显示所有服务](https://jireh.xyz/articles/2021/10/21/1634782380425.html)
 * [【转】el-table遍历循环表头和表体数据](https://jireh.xyz/articles/2021/10/09/1633775762481.html)
 * [idea设置代码自动换行](https://jireh.xyz/articles/2021/09/07/1631005403706.html)
-* [node --max-old-space-size=10240 不是内部或外部命令,也不是可运行的程序](https://jireh.xyz/articles/2021/09/01/1630486876748.html)
 
 
 
