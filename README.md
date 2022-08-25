@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [Windows环境下Docker部署Oracle](https://jireh.xyz/articles/2022/08/24/1661311191697.html)
 * [【严重】Nps鉴权绕过0day漏洞](https://jireh.xyz/articles/2022/08/10/1660122191957.html)
 * [Centos安装Oracle客户端](https://jireh.xyz/articles/2022/06/24/1656061883986.html)
 * [x509: certificate signed by unknown authority](https://jireh.xyz/articles/2022/06/17/1655450501367.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [System.Net.Sockets.SocketException (0x80004005): 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作](https://jireh.xyz/articles/2021/10/29/1635499351468.html)
 * [IDEA Service窗口没有显示所有服务](https://jireh.xyz/articles/2021/10/21/1634782380425.html)
 * [【转】el-table遍历循环表头和表体数据](https://jireh.xyz/articles/2021/10/09/1633775762481.html)
-* [idea设置代码自动换行](https://jireh.xyz/articles/2021/09/07/1631005403706.html)
 
 
 
