@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [Win10开启电源卓越性能模式](https://jireh.xyz/articles/2022/09/09/1662701998967.html)
 * [Windows环境下Docker部署Oracle](https://jireh.xyz/articles/2022/08/24/1661311191697.html)
 * [【严重】Nps鉴权绕过0day漏洞](https://jireh.xyz/articles/2022/08/10/1660122191957.html)
 * [Centos安装Oracle客户端](https://jireh.xyz/articles/2022/06/24/1656061883986.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [ [ERROR FileContent--proc-sys-net-ipv4-ip_forward]: /proc/sys/net/ipv4/ip_forward contents are not set to 1](https://jireh.xyz/articles/2021/11/24/1637741194224.html)
 * [System.Net.Sockets.SocketException (0x80004005): 由于系统缓冲区空间不足或队列已满，不能执行套接字上的操作](https://jireh.xyz/articles/2021/10/29/1635499351468.html)
 * [IDEA Service窗口没有显示所有服务](https://jireh.xyz/articles/2021/10/21/1634782380425.html)
-* [【转】el-table遍历循环表头和表体数据](https://jireh.xyz/articles/2021/10/09/1633775762481.html)
 
 
 
