@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [Datax-Admin一直报错导致硬盘空间占满](https://jireh.xyz/articles/2023/08/07/1691401519359.html)
 * [MIUI解锁时出现验证失败，无法获取手机信息](https://jireh.xyz/articles/2023/08/01/1690853676997.html)
 * [Gitea解决Git推送失败：the remote end hung up unexpectedly](https://jireh.xyz/articles/2023/07/07/1688710630734.html)
 * [Win10开启电源卓越性能模式](https://jireh.xyz/articles/2022/09/09/1662701998967.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [微信历史版本下载](https://jireh.xyz/articles/2021/12/02/1638433783345.html)
 * [kubernetes containerd http: server gave HTTP response to HTTPS client](https://jireh.xyz/articles/2021/12/02/1638409755466.html)
 * [安装calico客户端工具calicoctl](https://jireh.xyz/articles/2021/12/01/1638348484646.html)
-* [ [ERROR FileContent--proc-sys-net-ipv4-ip_forward]: /proc/sys/net/ipv4/ip_forward contents are not set to 1](https://jireh.xyz/articles/2021/11/24/1637741194224.html)
 
 
 
