@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [Unto  Us 为了我们](https://jireh.xyz/articles/2023/11/28/1701176775697.html)
 * [unexpected output in sfdisk --version [sfdisk,来自 util-linux 2.23.2]](https://jireh.xyz/articles/2023/11/07/1699337880766.html)
 * [Datax-Admin一直报错导致硬盘空间占满](https://jireh.xyz/articles/2023/08/07/1691401519359.html)
 * [MIUI解锁时出现验证失败，无法获取手机信息](https://jireh.xyz/articles/2023/08/01/1690853676997.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [提问的智慧](https://jireh.xyz/articles/2021/12/15/1639532300690.html)
 * [Nginx配置SSL（Let‘s Encrypt）](https://jireh.xyz/articles/2021/12/14/1639475074600.html)
 * [微信历史版本下载](https://jireh.xyz/articles/2021/12/02/1638433783345.html)
-* [kubernetes containerd http: server gave HTTP response to HTTPS client](https://jireh.xyz/articles/2021/12/02/1638409755466.html)
 
 
 
