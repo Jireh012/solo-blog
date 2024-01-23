@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [java.lang.UnsupportedOperationException](https://jireh.xyz/articles/2024/01/22/1705915256003.html)
 * [EP 144 關愛受造世界的門徒 《訪問趙汝圖傳道》](https://jireh.xyz/articles/2024/01/09/1704791140604.html)
 * [【转】windows server 2008漏洞修复后无法正常开机解决办法](https://jireh.xyz/articles/2024/01/09/1704791053220.html)
 * [EP 143 華人教會的屬靈傳統與神學教育 《訪問梁家麟院長》](https://jireh.xyz/articles/2024/01/03/1704249726778.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [EP 11訪談世界華福中心總幹事陳世欽牧師：華福運動是什麼？海外華人教會有何異同？使命門徒和傳統宣教士唇齒相依？](https://jireh.xyz/articles/2023/12/06/1701864711693.html)
 * [EP 12訪談緬甸張青青傳道：緬甸社會、政變與教會內外的實況訪談。軍隊駐紮同工家裡，牧者如何轉危為機？](https://jireh.xyz/articles/2023/12/06/1701864707093.html)
 * [EP 13訪談香港陳韋安博士：持續更新的教會──成為如水流動的教會，盛載新時代的信徒](https://jireh.xyz/articles/2023/12/06/1701864702054.html)
-* [EP 14訪談越南陳良棟牧師：堅韌的越南教會：淺談越南教會發展、當代信徒流失的迷思、以敬拜為中心的門徒生活](https://jireh.xyz/articles/2023/12/06/1701864696801.html)
 
 
 
