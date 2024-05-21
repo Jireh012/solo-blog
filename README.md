@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [如何在 MySQL 中使用 FEDERATED 引擎实现DB Link能力](https://jireh.xyz/articles/2024/05/20/1716187033599.html)
 * [java.lang.UnsupportedOperationException](https://jireh.xyz/articles/2024/01/22/1705915256003.html)
 * [【转】windows server 2008漏洞修复后无法正常开机解决办法](https://jireh.xyz/articles/2024/01/09/1704791053220.html)
 * [Unto  Us 为了我们](https://jireh.xyz/articles/2023/11/28/1701176775697.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [解决Chrome无法翻译网页](https://jireh.xyz/articles/2022/02/17/1645060512804.html)
 * [Netflix巴西 4K+HDR](https://jireh.xyz/articles/2022/01/17/1642389833430.html)
 * [MT一键搭建白名单模式](https://jireh.xyz/articles/2022/01/10/1641782164468.html)
-* [提问的智慧](https://jireh.xyz/articles/2021/12/15/1639532300690.html)
 
 
 
