@@ -10,10 +10,10 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [通过stunnel转发ssh实例](http://localhost/articles/2025/09/01/1756716561951.html)
 * [bash: /dev/fd/63: No such file or directory](http://localhost/articles/2025/06/21/1750488912797.html)
 * [java.lang.UnsupportedOperationException](http://localhost/articles/2024/01/22/1705915256003.html)
 * [【转】windows server 2008漏洞修复后无法正常开机解决办法](http://localhost/articles/2024/01/09/1704791053220.html)
-* [Unto  Us 为了我们](http://localhost/articles/2023/11/28/1701176775697.html)
 * [unexpected output in sfdisk --version [sfdisk,来自 util-linux 2.23.2]](http://localhost/articles/2023/11/07/1699337880766.html)
 * [Datax-Admin一直报错导致硬盘空间占满](http://localhost/articles/2023/08/07/1691401519359.html)
 * [MIUI解锁时出现验证失败，无法获取手机信息](http://localhost/articles/2023/08/01/1690853676997.html)
@@ -28,8 +28,8 @@ Jireh程序猿的那些事
 * [TeslaMate+宝塔Nginx反代配置](http://localhost/articles/2022/03/31/1648692344568.html)
 * [Harbor创建任意项目提示项目已存在解决办法](http://localhost/articles/2022/03/04/1646363168512.html)
 * [解决Chrome无法翻译网页](http://localhost/articles/2022/02/17/1645060512804.html)
-* [Netflix巴西 4K+HDR](http://localhost/articles/2022/01/17/1642389833430.html)
 * [MT一键搭建白名单模式](http://localhost/articles/2022/01/10/1641782164468.html)
+* [提问的智慧](http://localhost/articles/2021/12/15/1639532300690.html)
 
 
 
