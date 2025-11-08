@@ -10,6 +10,7 @@ Jireh程序猿的那些事
 
 ### 最新
 
+* [Docker部署Firefox浏览器](http://localhost/articles/2025/11/07/1762503284772.html)
 * [sudo离线升级](http://localhost/articles/2025/11/04/1762243833499.html)
 * [Cannot find a valid baseurl for repo: centos-sclo-rh/x86_64报错解决](http://localhost/articles/2025/11/04/1762220868845.html)
 * [Centos安装autossh](http://localhost/articles/2025/09/04/1756948584990.html)
@@ -29,7 +30,6 @@ Jireh程序猿的那些事
 * [Fastjson 1.2.80及以下存在Throwable 反序列化漏洞](http://localhost/articles/2022/05/24/1653360770593.html)
 * [Caused by: net.sf.jsqlparser.parser.ParseException: Encountered unexpected token: "with" "WITH"](http://localhost/articles/2022/04/01/1648806706513.html)
 * [TeslaMate+宝塔Nginx反代配置](http://localhost/articles/2022/03/31/1648692344568.html)
-* [Harbor创建任意项目提示项目已存在解决办法](http://localhost/articles/2022/03/04/1646363168512.html)
 
 
 
